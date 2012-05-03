@@ -1,0 +1,1 @@
+  [1m[36m (43.0ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations` [0m
